@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '37900'
     url: http://www.gutenberg.org/2009/agents/37900
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35783#Mornings-at-Bow-Streetwhich-Have-Appeared-in-the-Morning-Herald-
 gutenberg_issued: '2011-04-07'
 gutenberg_type: Text
 identifiers:
